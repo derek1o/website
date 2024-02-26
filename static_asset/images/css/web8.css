@@ -107,7 +107,7 @@ body{
 
 
 }
-.services1{
+.services{
    text-wrap: wrap;
     padding: 0 0px;
    /* width: 33% !important;*/
@@ -121,7 +121,7 @@ h3{
     margin: 10px 0;
     color: #333;
 }
-.services1 i{
+.services i{
 
     font-size: 50px;
     border-radius: 50%;
@@ -178,10 +178,10 @@ footer h1{
 .social h1{
     text-align: center;
 }
-.services1{
+.services{
     width: 100%;
 }
-.services1 .row{
+.services .row{
     display: flex;
 
 }
@@ -194,7 +194,7 @@ footer h1{
     font-weight: 700;
     color: green;
 }
-.services1 .row .col{
+.services .row .col{
     width: 33.3%;
 }
 .info{
@@ -635,20 +635,20 @@ section{
     
     
     }
-    .services1 i {
+    .services i {
         margin-left: 300px;
     }
     
-    .services1{
+    .services{
          width: 100% !important;
     }
-    .services1 h3 {
+    .services h3 {
         font-size: 20px;
         text-transform: capitalize;
         margin: 30px 20px;
         color: #333;    
 }
-.services1 p{
+.services p{
     margin: 20px;
     text-wrap: wrap;
     padding-right: 10px;
